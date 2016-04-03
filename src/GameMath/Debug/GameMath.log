@@ -1,0 +1,14 @@
+﻿  Quaternion.cpp
+c:\mathlib\src\gamemath\powerof.h(8): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\mathlib\src\gamemath\trigonometry.h(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\mathlib\src\gamemath\powerof.h(8): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\mathlib\src\gamemath\trigonometry.h(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+c:\mathlib\src\gamemath\powerof.h(8): warning C4552: '*': operator has no effect; expected operator with side-effect
+c:\mathlib\src\gamemath\trigonometry.h(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GameMath.vcxproj -> C:\Users\DALE-REDWILD\Desktop\Ryan B\Math\Project1\Debug\GameMath.exe
+  GameMath.vcxproj -> C:\Users\DALE-REDWILD\Desktop\Ryan B\Math\Project1\Debug\GameMath.pdb (Partial PDB)
